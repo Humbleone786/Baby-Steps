@@ -1,6 +1,11 @@
+#Madlibs for Marine Copy Pasta
 loop=1
-#this is how you do a loop
-while (loop < 2):
+
+#Loops 19 times
+#Asks for multiple inputs
+#outputs Marine Copy Pasta madlibs
+
+while (loop < 20):
 	noun = input("Choose a Noun (plural if necessary): ")
 	noun1 = input("Choose another Noun: ")
 	noun2 = input("Choose another Noun: ")
@@ -13,6 +18,9 @@ while (loop < 2):
 	profession = input("Choose a Profession: ")
 	number = input("Choose a Number: ")
 	country = input("Choose a Country: ")
+	
+	"""Printing text for user
+	Utilizing previously asked for inputs"""
 	
 	print("")
 	print("What the fuck did you just fucking say about me, you little bitch?")
