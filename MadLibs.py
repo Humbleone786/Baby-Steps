@@ -1,4 +1,5 @@
 loop=1
+#this is how you do a loop
 while (loop < 2):
 	noun = input("Choose a Noun (plural if necessary): ")
 	noun1 = input("Choose another Noun: ")
